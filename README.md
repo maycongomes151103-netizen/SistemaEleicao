@@ -31,5 +31,6 @@ Aplicação de console em C# (.NET) projetada para gerenciar um processo eleitor
 
 ### 1. Clonar o Repositório
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO_GITHUB>
+git clone <git clone <https://github.com/maycongomes151103-netizen/SistemaEleicao>
+cd SistemaEleicao>
 cd SistemaEleicao
